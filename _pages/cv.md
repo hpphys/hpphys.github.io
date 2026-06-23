@@ -11,35 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Physics, Hunan University, 2023
+* B.S. in Applied Physics, Hunan University, 2018
 
-Work experience
+Employment
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023.07 – now: **Research Fellow**
+  * *National University of Singapore*
+  * Research: Near-field radiation
+  * Supervisor: Prof. Jian-Sheng Wang
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -52,13 +41,23 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
+
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  {% endfor %}</ul> -->
+
+Miscellaneous Experience
+=====
+<!-- * Grant & Funding
+  * 2023 – 2026, MOE AcRF Tier 1, Singapore, No. A-8000990-00-00, Participant.
+  * 2020 – 2023, NSFC General Project, China, Grant No. 11974106, Participant. -->
+
+* Awards & Honors
+  * 2023, Outstanding reviewer, IOP Publishing.
+  * 2022, President Scholarship, Hunan University.
+  * 2015, National Encouragement scholarship, Hunan University.
+
+* Activities & Service
+  * Referee for several well-known physics journals
