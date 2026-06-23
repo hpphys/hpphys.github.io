@@ -48,7 +48,7 @@ Talks
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-Miscellaneous Experience
+Others
 =====
 <!-- * Grant & Funding
   * 2023 – 2026, MOE AcRF Tier 1, Singapore, No. A-8000990-00-00, Participant.
