@@ -9,3 +9,4 @@ volume: '113'
 pages: '115403'
 paperurl: 'https://link.aps.org/doi/10.1103/fhqs-mvfw'
 citation: ' Chang-Hao Ding,  Wenwen Liu,  Yuan Yao,  Hao Chen,  Nannan Luo,  Jiang Zeng,  Li-Ming Tang,  Hui Pan,  Ke-Qiu Chen, &quot;Influence of magnon-magnon and magnon-phonon interactions on magnon relaxation under external strain and magnetic fields in monolayer MnSe_2.&quot; Phys. Rev. B, 2026.'
+---

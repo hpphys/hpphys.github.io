@@ -9,3 +9,4 @@ volume: '105'
 pages: '064401'
 paperurl: 'https://link.aps.org/doi/10.1103/PhysRevB.105.064401'
 citation: ' Hui Pan,  Li Tang,  Ke Chen, &quot;Quantum mechanical modeling of magnon-phonon scattering heat transport across three-dimensional ferromagnetic/nonmagnetic interfaces.&quot; Phys. Rev. B, 2022.'
+---
