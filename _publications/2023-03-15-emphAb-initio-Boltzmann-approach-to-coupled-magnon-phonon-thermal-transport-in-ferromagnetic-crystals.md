@@ -1,5 +1,5 @@
 ---
-title: "emphAb initio Boltzmann approach to coupled magnon-phonon thermal transport in ferromagnetic crystals"
+title: "Ab initio Boltzmann approach to coupled magnon-phonon thermal transport in ferromagnetic crystals"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-03-15-emphAb-initio-Boltzmann-approach-to-coupled-magnon-phonon-thermal-transport-in-ferromagnetic-crystals
