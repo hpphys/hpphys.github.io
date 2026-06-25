@@ -12,6 +12,15 @@
   {% assign title = post.title %}
 {% endif %}
 
+{% capture citation %}
+<i>{{ post.venue }}</i> <b>{{ post.volume }}</b>, {{ post.pages }} ({{ post.date | default: "1900-01-01" | date: "%Y" }})
+{% endcapture %}
+
+{% capture citation_with_url %}
+<a href="{{ post.paperurl }}"><i>{{ post.venue }}</i> <b>{{ post.volume }}</b>, {{ post.pages }} ({{ post.date | default: "1900-01-01" | date: "%Y" }})</a>
+{% endcapture %}
+
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
@@ -81,7 +90,7 @@
     {% endif %}
 
     {% if post.authors and post.paperurl %}
-      <p>{{ post.authors }}, <a href="{{ post.paperurl }}"> <i>{{ post.venue }}</i> <b>{{ post.volume }}</b>, {{ post.pages }} ({{ post.date | default: "1900-01-01" | date: "%Y" }}) </a></p>
+      <p>{{ post.authors }}, {{ citation_with_url }}</p>
     {% endif %}
 
   </article>
