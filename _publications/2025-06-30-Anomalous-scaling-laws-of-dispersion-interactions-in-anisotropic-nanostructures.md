@@ -8,5 +8,6 @@ venue: 'arXiv'
 volume: ''
 pages: ''
 paperurl: 'http://arxiv.org/abs/2506.23830'
-citation: ' Hui Pan,  Yuhua Ren,  Jian-Sheng Wang, &quot;Anomalous scaling laws of dispersion interactions in anisotropic nanostructures.&quot; , 2025.'
+authors: '<b>Hui Pan*</b>,  Yuhua Ren,  Jian-Sheng Wang*'
+# citation: ' Hui Pan,  Yuhua Ren,  Jian-Sheng Wang, &quot;Anomalous scaling laws of dispersion interactions in anisotropic nanostructures.&quot; , 2025.'
 ---

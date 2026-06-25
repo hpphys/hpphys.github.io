@@ -8,5 +8,6 @@ venue: 'Phys. Rev. B'
 volume: '112'
 pages: 'L041401'
 paperurl: 'https://link.aps.org/doi/10.1103/74rq-f642'
-citation: ' Hui Pan,  Yuhua Ren,  Gaomin Tang,  Jian-Sheng Wang, &quot;Asymmetry-induced radiative heat transfer in Floquet systems.&quot; Phys. Rev. B, 2025.'
+authors: '<b>Hui Pan*</b>,  Yuhua Ren,  Gaomin Tang*,  Jian-Sheng Wang*'
+# citation: ' Hui Pan,  Yuhua Ren,  Gaomin Tang,  Jian-Sheng Wang, &quot;Asymmetry-induced radiative heat transfer in Floquet systems.&quot; Phys. Rev. B, 2025.'
 ---
