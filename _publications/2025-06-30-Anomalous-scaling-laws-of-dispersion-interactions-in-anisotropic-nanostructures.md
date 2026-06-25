@@ -1,6 +1,7 @@
 ---
 title: "Anomalous scaling laws of dispersion interactions in anisotropic nanostructures"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-06-30-Anomalous-scaling-laws-of-dispersion-interactions-in-anisotropic-nanostructures
 date: 2025-06-30
 venue: ''

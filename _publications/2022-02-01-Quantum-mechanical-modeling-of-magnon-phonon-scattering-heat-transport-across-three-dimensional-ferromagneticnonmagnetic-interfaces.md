@@ -1,6 +1,7 @@
 ---
 title: "Quantum mechanical modeling of magnon-phonon scattering heat transport across three-dimensional ferromagnetic/nonmagnetic interfaces"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-02-01-Quantum-mechanical-modeling-of-magnon-phonon-scattering-heat-transport-across-three-dimensional-ferromagneticnonmagnetic-interfaces
 date: 2022-02-01
 venue: 'Phys. Rev. B'

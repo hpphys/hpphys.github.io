@@ -1,6 +1,7 @@
 ---
 title: "Asymmetry-induced radiative heat transfer in Floquet systems"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-07-2-Asymmetry-induced-radiative-heat-transfer-in-Floquet-systems
 date: 2025-07-2
 venue: 'Phys. Rev. B'

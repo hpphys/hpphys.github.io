@@ -1,6 +1,7 @@
 ---
 title: "Quantum thermal transport in magnetic nanomaterials: methods, applications, and challenges"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-12-01-Quantum-thermal-transport-in-magnetic-nanomaterials-methods-applications-and-challenges
 date: 2025-12-01
 venue: 'J. Phys. Condens. Matter'
