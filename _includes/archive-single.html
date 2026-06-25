@@ -80,5 +80,9 @@
       <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% endif %}
 
+    {% if post.authors and post.paperurl %}
+      <p>{{ post.authors }}, <a href="{{ post.paperurl }}"> <i>{{ post.venue }}</i> <b>{{ post.volume }}</b>, {{ post.pages }} ({{ post.date | default: "1900-01-01" | date: "%Y" }}) </a></p>
+    {% endif %}
+
   </article>
 </div>
